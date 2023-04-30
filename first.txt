@@ -1,0 +1,2 @@
+This is version1 of my file.
+I want this to go into commit 2
